@@ -9,7 +9,7 @@ An animated flow map of goods movement through the Houston port complex:
 
 **≈31% of the Houston region's inter-zonal truck tonnage moves through the port complex.**
 
-**[View the live map](https://bryanemos-glitch.github.io/houston-freight-flows/)**
+**[View the live map](https://bschmitz-builds.github.io/houston-freight-flows/)**
 
 Built with deck.gl · basemap © OpenStreetMap contributors, © CARTO.
 Data: BTS/FHWA FAF5 · USACE WCSC · TxDOT · NOAA MarineCadastre (all public sources).
